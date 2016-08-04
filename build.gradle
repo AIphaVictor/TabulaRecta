@@ -1,6 +1,11 @@
 apply plugin: 'java'
+apply plugin: 'eclipse'
 sourceSets.main.java.srcDirs = ['src']
 sourceSets.test.java.srcDirs = ['test']
+
+eclipse.project {
+  natures 'org.springsource.ide.eclipse.gradle.core.nature'
+}
 
 repositories {
   mavenCentral()
