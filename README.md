@@ -1,6 +1,6 @@
 # TabulaRecta
 
-[![Build Status](https://travis-ci.org/AIphaVictor/TabulaRecta.svg?branch=master)](https://travis-ci.org/AIphaVictor/TabulaRecta)
+[![Build Status](https://travis-ci.org/alexvinall/TabulaRecta.svg?branch=master)](https://travis-ci.org/alexvinall/TabulaRecta)
 
 A Java program that generates a *tabula recta* to standard output.
 The intention of this program is to be efficient without compromising readability - it is intended to show you how to solve the problem.
